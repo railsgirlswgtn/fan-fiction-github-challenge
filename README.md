@@ -57,3 +57,6 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 
 
 8. ###### Create a pull request to master on github
+
+
+  ![](http://i.imgur.com/zZPQLw0.png)

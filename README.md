@@ -1,7 +1,5 @@
 # Collaborative Fan Fiction
 
-Something witty as intro - Merrin?!?
-
 
 ### The Challenge
 Make a pull request to add to this collaborative tale about Harry and his friends.
@@ -18,7 +16,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
   $ git clone https://github.com/railsgirlswgtn/fan-fiction-github-challenge.git
   ```
 
-  This creates a copy of this repository on your computer. In other words, it creates a new folder called `fan-fiction-github-challenge` full of everything you see here. 
+  This creates a copy of this **repository** on your computer. In other words, it creates a new folder called `fan-fiction-github-challenge` full of everything you see here. 
 
 
 3. ###### Navigate into the folder
@@ -82,11 +80,17 @@ Make a pull request to add to this collaborative tale about Harry and his friend
   $ git push origin <your_branch_name>
   ```
 
+  This copies your branch information to the repository on GitHub.
+
+  You should be able to see your branch [here](https://github.com/railsgirlswgtn/fan-fiction-github-challenge/branches).
+
 
 9. ###### Create a pull request to master on github
 
 
   ![](http://i.imgur.com/zZPQLw0.png)
+
+  Go through the steps to create a pull request on GitHub. Genevieve, Rob, and Merrin will merge pull requests into master.
 
 #### Updating your repository
   Hopefully this repository will be full of delightful contributions to literature. That means that you will have to **pull** from **origin** to get everyone elses' commits.
@@ -99,7 +103,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 
   3. Your task now is to `git pull`. 
     * As long as your working directory is clean and you have only made commits to your branch and not to master, this should just pull the changes down from GitHub that everyone else has made. Your master branch should now look like the master branch on GitHub.
-    * If you have made commits to master, you might get merge conflicts here. Skip ahead to point 8 for tips on resolving merge conflicts. 
+    * If you have made commits to master, you might get merge conflicts here. Skip ahead to point 8 for tips on resolving merge conflicts, and find a coach to get some help with getting your commits onto a branch. 
 
   4. Now head back to the branch that your commits are on: `git checkout whatever_your_branch_is_called`.
 
@@ -108,7 +112,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
   6. Are you sure? 
 
   7. Ok. Take a deep breath and type `git merge master`.
-    * If you haven't made any commits since making this branch, this will probably just come up with a text editor screen asking you for a commit message. You can just exit out of it by typing `:q`. Shazam. You are done. Proceed to step 10.
+    * If you haven't made any commits since making this branch, or if you have only edited things that don't conflict with anything else, this will probably just come up with a text editor screen asking you for a commit message. You can just exit out of it by typing `:q`. Shazam. You are done. Proceed to step 11.
     * If you have made commits since making the branch, given that there a bunch of people editing the same file, it is extremely likely that you will have **merge conflicts**. You'll see this:
 
       ```
@@ -139,11 +143,30 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 
     Grab a coach at this stage, or any stage, if you need help.
 
-  10. You are the `git merge master`. You have overpowered the machine. High five someone.
+  10. `git status` should give you something like this:
+    ```
+    You have unmerged paths.
+    (fix conflicts and run "git commit")
 
-  11. (P.S. )
+    Unmerged paths:
+    (use "git add <file>..." to mark resolution)
 
-Cats.
+    both modified:   fan-fiction.md
+    ```
+    If you `git add fan-fiction.md` then run `git status` again you should get:
+    ```
+    All conflicts fixed but you are still merging.
+    (use "git commit" to conclude merge)
+
+    Changes to be committed:
+
+    modified:   fan-fiction.md
+    ```
+    Now, like it suggests, you can run `git commit` - or `git commit -m 'whatever your message is'` if you want to include a custom commit message. 
+
+    YOU WILL BE UP TO DATE and your MERGE CONFLICT WILL BE FIXED.
+
+  11. You are the `git merge master`. You have overpowered the machine. High five someone.
 
 #### Troubleshooting
 
@@ -156,5 +179,5 @@ Cats.
   * `git stash` and `git stash pop` are quite useful commands. `git stash` basically hides away all of the changes you have made and not committed, then `git stash pop` brings them back out again.
   * If none of these are working, you might not be in the right directory - try `pwd` to see what directory you are in, `ls` to see what folders are in the directory you are in, and `cd fan-fiction-github-challenge` if you're in the parent directory. 
 
-* ###### You know, I don't even like/haven't even read Harry Potter, but I do want that GitHub sticker/the joy of knowledge.
-  Why not create a new file in this repository?
+* ###### You know, I don't even like/haven't even read Harry Potter/don't ship the ship this story is shipping, but I do want that GitHub sticker/the joy of knowledge.
+  Why not create a new file in this repository and start another story?

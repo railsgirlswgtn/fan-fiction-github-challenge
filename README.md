@@ -77,7 +77,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 
 
   ```sh
-  $ git push origin <your_branch_name>
+  $ git push origin your_branch_name
   ```
 
   This copies your branch information to the repository on GitHub.

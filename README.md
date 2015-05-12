@@ -105,7 +105,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 
   5. The next part is hard. Are you ready for it?
 
-  6. Are you sure?
+  6. Are you sure? Really sure?
 
   7. Ok. Take a deep breath and type `git merge master`.
     * If you haven't made any commits since making this branch, this will probably just come up with a text editor screen asking you for a commit message. You can just exit out of it by typing `:q`. Shazam. You are done. Proceed to step 10.
@@ -114,7 +114,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
       * They happen a lot less when there aren't a bunch of people editing the same parts of the same file.
       * Computers are great and fun. Really.
 
-  8. `git status` will tell you what files are conflicted. Open those files up in your text editor. 
+  8. `git status` will tell you what files are conflicted. Open them up in your text editor. 
 
   10. You are the `git merge master`. You have overpowered the machine. High five someone.
 

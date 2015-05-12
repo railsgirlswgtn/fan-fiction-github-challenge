@@ -105,18 +105,45 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 
   5. The next part is hard. Are you ready for it?
 
-  6. Are you sure? Really sure?
+  6. Are you sure? 
 
   7. Ok. Take a deep breath and type `git merge master`.
     * If you haven't made any commits since making this branch, this will probably just come up with a text editor screen asking you for a commit message. You can just exit out of it by typing `:q`. Shazam. You are done. Proceed to step 10.
-    * If you have made commits since making the branch, given that there a bunch of people editing the same file, it is extremely likely that you will have **merge conflicts**.
+    * If you have made commits since making the branch, given that there a bunch of people editing the same file, it is extremely likely that you will have **merge conflicts**. You'll see this:
+
+      ```
+      Auto-merging fan-fiction.md
+      CONFLICT (content): Merge conflict in fan-fiction.md
+      Automatic merge failed; fix conflicts and then commit the result.
+      ```
+
       * I have nightmares about merge conflicts.
       * They happen a lot less when there aren't a bunch of people editing the same parts of the same file.
       * Computers are great and fun. Really.
 
   8. `git status` will tell you what files are conflicted. Open them up in your text editor. 
 
+  9. You will probably see a bunch of things like this:
+    ```
+    <<<<<<< HEAD
+      8. `git status` will tell you what files are conflicted. Open them up in your text editor. 
+    =======
+      8. `git status` will tell you what cats are conflicted. Open those cats up in your text editor. 
+    >>>>>>> master
+    ```
+    Between `<<<<<<< HEAD` and `=======` is the stuff you have in your `HEAD`, which is your current branch. 
+
+    Between `=======` and `>>>>>>> master` is the stuff from master.
+
+    So basically you want to manually move things around to make sure everyones' contributions are all there, nothing is doubled up, and you have deleted all of the `<<<<<<< HEAD` things.
+
+    Grab a coach at this stage, or any stage, if you need help.
+
   10. You are the `git merge master`. You have overpowered the machine. High five someone.
+
+  11. (P.S. )
+
+Cats.
 
 #### Troubleshooting
 

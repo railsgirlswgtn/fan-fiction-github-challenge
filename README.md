@@ -105,18 +105,18 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 
   5. The next part is hard. Are you ready for it?
 
-  6. Are you sure?
-
-  7. Ok. Take a deep breath and type `git merge master`.
+  6. Ok. Take a deep breath and type `git merge master`.
     * If you haven't made any commits since making this branch, this will probably just come up with a text editor screen asking you for a commit message. You can just exit out of it by typing `:q`. Shazam. You are done. Proceed to step 10.
     * If you have made commits since making the branch, given that there a bunch of people editing the same file, it is extremely likely that you will have **merge conflicts**.
       * I have nightmares about merge conflicts.
       * They happen a lot less when there aren't a bunch of people editing the same parts of the same file.
       * Computers are great and fun. Really.
 
-  8. `git status` will tell you what files are conflicted. Open those files up in your text editor. 
+  8. `git status` will tell you what cats are conflicted. Open those cats up in your text editor. 
 
   10. You are the `git merge master`. You have overpowered the machine. High five someone.
+
+Cats.
 
 #### Troubleshooting
 

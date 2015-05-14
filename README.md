@@ -16,7 +16,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
   $ git clone https://github.com/railsgirlswgtn/fan-fiction-github-challenge.git
   ```
 
-  This creates a copy of this **repository** on your computer. In other words, it creates a new folder called `fan-fiction-github-challenge` full of everything you see here. 
+  This creates a copy of this **repository** on your computer. In other words, it creates a new folder called `fan-fiction-github-challenge` full of everything you see here.
 
 
 3. ###### Navigate into the folder
@@ -29,7 +29,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 
   You can go back to the directory you were in before by typing `cd -` or the directory that contains the one you are in by typing `cd ..`.
 
-  If you want to see what directory you're in, you can type `pwd`, which is short for **print working directory**. To see what is in the directory you're in, type `ls`, which is sort of a weird abbreviation for **list** I guess. 
+  If you want to see what directory you're in, you can type `pwd`, which is short for **print working directory**. To see what is in the directory you're in, type `ls`, which is sort of a weird abbreviation for **list** I guess.
 
 
 4. ###### Checkout a branch
@@ -41,7 +41,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 
   This creates a new **branch**. That means it keeps track of changes separately.
 
-  You don't need to surround the name of your branch with brackets or anything like that, but generally it should just be made up of letters, numbers, `-`s and `_`s. So you could write `git checkout -b terrible_dragons` or `git checkout -b revenge-of-albus-severus`. 
+  You don't need to surround the name of your branch with brackets or anything like that, but generally it should just be made up of letters, numbers, `-`s and `_`s. So you could write `git checkout -b terrible_dragons` or `git checkout -b revenge-of-albus-severus`.
 
   You need the `-b` to create the new branch. Without `-b` it will want to change to a branch that already exists with that name. That can be useful later.
 
@@ -49,7 +49,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 5. ###### Make an edit
 
 
-  Open the file fan-fiction.md in your text editor. This file is in markdown. Check out [this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to formatting in markdown. You can embed images, links, lists, headings, whatever you like!
+  Open the file fan-fiction.md in your text editor. This file is in **markdown**. Check out [this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to formatting in markdown. You can embed images, links, lists, headings, whatever you like!
 
 
 6. ###### Add your changed file to the staging area
@@ -61,17 +61,17 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 
   This puts fan-fiction.md into the **staging area**. If you make another change, it will be removed from it.  
 
-  To see what you've changed and what is in your **staging area**, you can type `git status`.
+  To see what files you've changed and what is in your **staging area**, you can type `git status`. `git diff` will show you a more detailed view of the changes in your files.
 
 
 7. ###### Commit your changes with a sweet commit message
 
 
   ```sh
-  $ git commit -m 'Hermione discovers who sent the valentines day card'
+  $ git commit -m 'Hermione turns down an office at the Department of Magical Law Enforcement'
   ```
 
-  A commit is the point at which the state of everything in the **staging area** is recorded. 
+  A commit is the point at which the state of everything in the **staging area** is recorded.
 
 8. ###### Push your changes to a branch on github
 
@@ -95,21 +95,21 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 #### Updating your repository
   Hopefully this repository will be full of delightful contributions to literature. That means that you will have to **pull** from **origin** to get everyone elses' commits.
 
-  1. First of all, if you are on a branch, make sure you have **committed** all of the changes you want to make. When you type `git status`, you want it to say: 'nothing to commit, working directory clean'. 
+  1. First of all, if you are on a branch, make sure you have **committed** all of the changes you want to make. When you type `git status`, you want it to say: 'nothing to commit, working directory clean'.
     * There are more detailed instructions above about `git add` and `git commit`.
     * If you don't want to commit but you do want to switch branches, you can use `git stash` to hide the changes you have made and `git stash pop` to bring them back.
 
-  2. Next, check out the master branch: `git checkout master`. 
+  2. Next, check out the master branch: `git checkout master`.
 
-  3. Your task now is to `git pull`. 
+  3. Your task now is to `git pull`.
     * As long as your working directory is clean and you have only made commits to your branch and not to master, this should just pull the changes down from GitHub that everyone else has made. Your master branch should now look like the master branch on GitHub.
-    * If you have made commits to master, you might get merge conflicts here. Skip ahead to point 8 for tips on resolving merge conflicts, and find a coach to get some help with getting your commits onto a branch. 
+    * If you have made commits to master, you might get merge conflicts here. Skip ahead to point 8 for tips on resolving merge conflicts, and find a coach to get some help with getting your commits onto a branch.
 
   4. Now head back to the branch that your commits are on: `git checkout whatever_your_branch_is_called`.
 
   5. The next part is hard. Are you ready for it?
 
-  6. Are you sure? 
+  6. Are you sure?
 
   7. Ok. Take a deep breath and type `git merge master`.
     * If you haven't made any commits since making this branch, or if you have only edited things that don't conflict with anything else, this will probably just come up with a text editor screen asking you for a commit message. You can just exit out of it by typing `:q`. Shazam. You are done. Proceed to step 11.
@@ -125,17 +125,17 @@ Make a pull request to add to this collaborative tale about Harry and his friend
       * They happen a lot less when there aren't a bunch of people editing the same parts of the same file.
       * Computers are great and fun. Really.
 
-  8. `git status` will tell you what files are conflicted. Open them up in your text editor. 
+  8. `git status` will tell you what files are conflicted. Open them up in your text editor.
 
   9. You will probably see a bunch of things like this:
     ```
     <<<<<<< HEAD
-      8. `git status` will tell you what files are conflicted. Open them up in your text editor. 
+      8. `git status` will tell you what files are conflicted. Open them up in your text editor.
     =======
-      8. `git status` will tell you what cats are conflicted. Open those cats up in your text editor. 
+      8. `git status` will tell you what cats are conflicted. Open those cats up in your text editor.
     >>>>>>> master
     ```
-    Between `<<<<<<< HEAD` and `=======` is the stuff you have in your `HEAD`, which is your current branch. 
+    Between `<<<<<<< HEAD` and `=======` is the stuff you have in your `HEAD`, which is your current branch.
 
     Between `=======` and `>>>>>>> master` is the stuff from master.
 
@@ -162,7 +162,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
 
     modified:   fan-fiction.md
     ```
-    Now, like it suggests, you can run `git commit` - or `git commit -m 'whatever your message is'` if you want to include a custom commit message. 
+    Now, like it suggests, you can run `git commit` - or `git commit -m 'whatever your message is'` if you want to include a custom commit message.
 
     YOU WILL BE UP TO DATE and your MERGE CONFLICT WILL BE FIXED.
 
@@ -177,7 +177,7 @@ Make a pull request to add to this collaborative tale about Harry and his friend
   * `git log` shows you a record of commits. It opens up in your command line text file reader, which you can get out of by typing `:q`.
   * `git branch` has information about all of the branches you have going on and which one is active.
   * `git stash` and `git stash pop` are quite useful commands. `git stash` basically hides away all of the changes you have made and not committed, then `git stash pop` brings them back out again.
-  * If none of these are working, you might not be in the right directory - try `pwd` to see what directory you are in, `ls` to see what folders are in the directory you are in, and `cd fan-fiction-github-challenge` if you're in the parent directory. 
+  * If none of these are working, you might not be in the right directory - try `pwd` to see what directory you are in, `ls` to see what folders are in the directory you are in, and `cd fan-fiction-github-challenge` if you're in the parent directory.
 
 * ###### You know, I don't even like/haven't even read Harry Potter/don't ship the ship this story is shipping, but I do want that GitHub sticker/the joy of knowledge.
   Why not create a new file in this repository and start another story?

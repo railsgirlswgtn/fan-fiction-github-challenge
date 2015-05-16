@@ -42,12 +42,34 @@ He also had frequent dreams about the dreaded Whomping Willow. Little did he kno
 
 Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge.
 
-He'd been plotting for some time, but the likelihood of Peter Pettigrew visiting him in prison, transforming back into a wizard infront of the Dementors and exposing himself for the fraud he was, was becoming increasingly unlikely. And that didn't even allow for the Dementors not actually caring. No. He had to act now.
 
-## H3 Back on the train...
+He'd been plotting for some time, but the likelihood of Peter Pettigrew visiting him in prison, transforming back into a wizard infront of the Dementors and exposing himself for the fraud he was, Sirius reflected, was becoming increasingly unlikely. And that didn't even allow for the Dementors not actually caring. No. He had to act now.
+
+## Back on the train...
 
 Hermione Grainger was very nervous. Perhaps if the other witches and wizards found out that her parents were dentists she'd be ridiculed. Of course, what they didn't know, is that her parents weren't dentists at all. They were infact Muggle spies who were responsible for keeping the Prime Minister up to date with the goings on in the Magical world. Hermione had been turned into a witch by drinking a special potion with her porridge one morning when she was very young. She was, in fact, their opportunity to infiltrate the magical world.
+Little did the Graingers know that the greatest wizard in the land, Dumbledore was on to them. In fact, he had been since the start. But as Dumbledore knew, all great plans take at least 18 years to come to fruition.
 
-## H3 Cutthroat Clive has feelings too
+## Cutthroat Clive has feelings too
 
 Transformed into Padfoot, Sirius found he could move around without the Dementors seeing him. In the next cell Cutthroat Clive's mother had come to visit with a backpack full of birthday cake to celebrate Clive's 40th birthday. Clive was a nice enough guy, he'd just fallen in with a bad crowd in the 'pirating on the high seas' scene. His mother always brought him fruitcake for his birthday every year, and he never managed to tell her that no one likes fruitcake, because he didn't want ot hurt her feelings. While Clive's mother was cutting up the cake, Padfood padded into the open backpack on the floor and lay down in the bag. Clive's mother would be able to carry him straight out of the prison and back into the free world.
+
+Little did he know that this year the cake had a surprise in it... 
+
+## The rat in the lab
+
+Clive's mother, Suzanne, was a lovely old lady working at AzkaLab, a small potions laboratory which developed new tools to help the Aurors catch criminals and send them to Azkaban. Being supported by the ministry of magic, AzkaLab received regular visits from Ministry Workers. This year, the visitor was Arthur Weasley.
+
+After Dumbleron's first time travels, Arthur started noticing changes in his youngest son's personality and decided it was time for some parental actions. He set his mind to get his son back to normal and went off to seek a furry pet to cheer him up. Of course, everybody knows the Weasleys aren't a wealthy family... which led Arthur to the nearest pet shelter on his way to AzkaLab. There, a fat grey rat with a missing finger caught his attention. 
+
+## This is getting sexy...
+
+Ronbledore checked that no one was around. Quickly, he rolled his anti Dementor deodorant on under his arms. It was also scented with eucalyptus, his lover Sirius' favourite scent. Looking furtively round once more just to make sure no one was around, he apparated into Sirius' cell.
+
+Sirius was pacing anxiously back and forth. All of a sudden Ronbledore appeared in front of him, and Sirius knocked both of them down to the floor.
+
+"Well, hello to you too", Ronbledore said grinning, as he was pinned down on the floor by his lover.
+
+Sirius blushed, his face matching the red colour of Ronbledore's hair. That vivid red hair that he'd been dreaming about.
+
+Ronbledore curled his arms around Sirius' waist. "You've lost quite a bit of weight in here" he remarked, noting that Sirius' face was looking a bit gaunt. His eyes travelled over his messy mop of dark hair, bright black eyes, and slightly chapped lips. He lingered on the lips. Raising his head up slightly, he gently pressed his lips against Sirius'.

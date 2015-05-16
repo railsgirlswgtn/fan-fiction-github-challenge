@@ -30,6 +30,7 @@ Thankfully the Muggle girl caleld Hermiione Grainger was talking to Harry and pr
 
 Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge.
 
+He'd been plotting for some time, but the likelihood of Peter Pettigrew visiting him in prison, transforming back into a wizard infront of the Dementors and exposing himself for the fraud he was, Sirius reflected, was becoming increasingly unlikely. And that didn't even allow for the Dementors not actually caring. No. He had to act now.
 After giving it some thought however, Black realised that his station in life wasn't all bad. After all, not every prisoner has fur and a tail, and if one must spend undeserved time in Azkaban, doing so as a dog must be the most convenient way.
 
 He had a weird feeling that he would escape in another two and a bit years anyway, so the remaining time must be spend perfecting his ability to confuse everyone who only catches a glimpse of him out of the corner of their eye by transforming into his other form.
@@ -37,13 +38,6 @@ He had a weird feeling that he would escape in another two and a bit years anywa
 He also had frequent dreams about the dreaded Whomping Willow. Little did he know, the future held a sweet sweet piece of dream-related revenge - biting sneaky Ronbledore and preventing him from time-traveling. Again. Well, at least for a short while.
 
 ![whompingwillow](http://images4.fanpop.com/image/quiz/652000/652062_1311432618026_350_220.jpg)
-
-## Meanwhile ...
-
-Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge.
-
-
-He'd been plotting for some time, but the likelihood of Peter Pettigrew visiting him in prison, transforming back into a wizard infront of the Dementors and exposing himself for the fraud he was, Sirius reflected, was becoming increasingly unlikely. And that didn't even allow for the Dementors not actually caring. No. He had to act now.
 
 ## Back on the train...
 

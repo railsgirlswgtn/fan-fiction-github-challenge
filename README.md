@@ -104,7 +104,7 @@ You will:
 #### The next step: Updating your repository
 
   Hopefully when you create your pull request it should be able to successfully be merged and you should see this button:
-  ![]()
+  ![](http://i.imgur.com/XW3prtc.png)
 
   If you don't, you haven't done anything wrong, your branch is most likely just slightly out of date - maybe someone else's pull request was merged to master in the time since you cloned the repo.
   That means that you will have to **pull** from **origin** to get everyone elses' commits into your own.

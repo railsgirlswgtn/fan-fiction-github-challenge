@@ -18,3 +18,9 @@ Ron looked at the boy sitting across the carriage from him, 'are you really Harr
 
 
 Oh course Ron knew who the boy was. As the boy pulled back his fringe to show his lightening scar, his mind drifted back to just under ten years ago when he had seen it for the first time when he had deposited the baby Harry on his aunt and uncle's doorstep. Harry could never know. Going to Hogwarts was going to be more complicated than Ronbledore had thought!
+
+Thankfully the Muggle girl caleld Hermiione Grainger was talking to Harry and providing a distraction from Ron's the complicated facial expressions that came with being a time travelling wizard.
+
+## Meanwhile ...
+
+Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge. 

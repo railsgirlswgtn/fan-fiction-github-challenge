@@ -14,21 +14,21 @@ Ron is actually a time traveling Dumbledore. Dumbledore is a time traveling Ron.
 
 #### Scene 1 - on the train to Hogwarts
 
-Ron looked at the boy sitting across the carriage from him. 'Are you really Harry Potter?' he blurted.
+Ron looked at the boy sitting across the carriage from him. 'Are you really Harry Potter?' he blurted. Meow.
 
 Oh course Ron knew who the boy was. As the boy pulled back his fringe to show his cat-shaped scar, his mind drifted back to just under ten years ago when he had seen it for the first time when he had deposited the baby Harry on his aunt and uncle's doorstep. Harry could never know. Going to Hogwarts was going to be more complicated than Ronbledore had thought!
 
 ## What have I got myself into thought Ronbledore
 
-Quickly, he nodded and made the appropriate awe-stricken noises signalling he was new to the scar debacle.
+Quickly, he nodded and made the appropriate awe-stricken noises signalling he was new to the scar debacle. Meow.
 
-Thankfully, before Harry twigged, a bushy-haired youth knocked on the door.
+Thankfully, before Harry twigged, a bushy-haired youth knocked on the door. Meow.
 
 Thankfully the Muggle girl caleld Hermiione Grainger was talking to Harry and providing a distraction from Ron's the complicated facial expressions that came with being a time travelling wizard. And allowed him to take a quick swig of the Polyjuice Potion that kept him in the form of a handsome red-headed schoolboy.
 
 ## Meanwhile ...
 
-Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge.
+Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge. Meow.
 
 After giving it some thought however, Black realised that his station in life wasn't all bad. After all, not every prisoner has fur and a tail, and if one must spend undeserved time in Azkaban, doing so as a dog must be the most convenient way.
 
@@ -72,7 +72,7 @@ Sirius was pacing anxiously back and forth. All of a sudden Ronbledore appeared 
 
 Sirius blushed, his face matching the red colour of Ronbledore's hair. That vivid red hair that he'd been dreaming about.
 
-Ronbledore curled his arms around Sirius' waist. "You've lost quite a bit of weight in here" he remarked, noting that Sirius' face was looking a bit gaunt. His eyes travelled over his messy mop of dark hair, bright black eyes, and slightly chapped lips. He lingered on the lips. Raising his head up slightly, he gently pressed his lips against Sirius'.
+Ronbledore curled his arms around Sirius' waist. "You've lost quite a bit of weight in here" he remarked, noting that Sirius' face was looking a bit gaunt. His eyes travelled over his messy mop of dark hair, bright black eyes, and slightly chapped lips. He lingered on the lips. Raising his head up slightly, he gently pressed his lips against Sirius'. Who, naturally, meowed.
 
 Sirius sighed at the familiarity of Ronbledores lips, and parted his mouth to allow their tongues to entwine like two snakes merging into one. He inhaled the heady scent of eucalyptus and the cold cell melted away as he was enveloped in the warmth of his lover.
 

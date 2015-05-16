@@ -101,8 +101,14 @@ You will:
 
   Go through the steps to create a pull request on GitHub. Genevieve, Rob, and Merrin will merge pull requests into master.
 
-#### Updating your repository
-  Hopefully this repository will be full of delightful contributions to literature. That means that you will have to **pull** from **origin** to get everyone elses' commits.
+#### The next step: Updating your repository
+
+  Hopefully when you create your pull request it should be able to successfully be merged and you should see this button:
+  ![](http://i.imgur.com/XW3prtc.png)
+
+  If you don't, you haven't done anything wrong, your branch is most likely just slightly out of date - maybe someone else's pull request was merged to master in the time since you cloned the repo.
+  That means that you will have to **pull** from **origin** to get everyone elses' commits into your own.
+  If you've got your Gryffindor or Ravenclaw hat on, you can do this yourself. Ready?
 
   1. First of all, if you are on a branch, make sure you have **committed** all of the changes you want to make. When you type `git status`, you want it to say: 'nothing to commit, working directory clean'.
     * There are more detailed instructions above about `git add` and `git commit`.

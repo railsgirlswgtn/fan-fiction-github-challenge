@@ -42,13 +42,13 @@ Little did the Graingers know that the greatest wizard in the land, Dumbledore w
 
 Transformed into Padfoot, Sirius found he could move around without the Dementors seeing him. In the next cell Cutthroat Clive's mother had come to visit with a backpack full of birthday cake to celebrate Clive's 40th birthday. Clive was a nice enough guy, he'd just fallen in with a bad crowd in the 'pirating on the high seas' scene. His mother always brought him fruitcake for his birthday every year, and he never managed to tell her that no one likes fruitcake, because he didn't want to hurt her feelings. While Clive's mother was cutting up the cake, Padfood padded into the open backpack on the floor and lay down in the bag. Clive's mother would be able to carry him straight out of the prison and back into the free world.
 
-Little did he know that this year the cake had a surprise in it... 
+Little did he know that this year the cake had a surprise in it...
 
 ## The rat in the lab
 
 Clive's mother, Suzanne, was a lovely old lady working at AzkaLab, a small potions laboratory which developed new tools to help the Aurors catch criminals and send them to Azkaban. Being supported by the ministry of magic, AzkaLab received regular visits from Ministry Workers. This year, the visitor was Arthur Weasley.
 
-After Dumbleron's first time travels, Arthur started noticing changes in his youngest son's personality and decided it was time for some parental actions. He set his mind to get his son back to normal and went off to seek a furry pet to cheer him up. Of course, everybody knows the Weasleys aren't a wealthy family... which led Arthur to the nearest pet shelter on his way to AzkaLab. There, a fat grey rat with a missing finger caught his attention. 
+After Dumbleron's first time travels, Arthur started noticing changes in his youngest son's personality and decided it was time for some parental actions. He set his mind to get his son back to normal and went off to seek a furry pet to cheer him up. Of course, everybody knows the Weasleys aren't a wealthy family... which led Arthur to the nearest pet shelter on his way to AzkaLab. There, a fat grey rat with a missing finger caught his attention.
 
 ## This is getting sexy...
 
@@ -63,3 +63,6 @@ Sirius blushed, his face matching the red colour of Ronbledore's hair. That vivi
 Ronbledore curled his arms around Sirius' waist. "You've lost quite a bit of weight in here" he remarked, noting that Sirius' face was looking a bit gaunt. His eyes travelled over his messy mop of dark hair, bright black eyes, and slightly chapped lips. He lingered on the lips. Raising his head up slightly, he gently pressed his lips against Sirius'.
 
 Sirius sighed at the familiarity of Ronbledores lips, and parted his mouth to allow their tongues to entwine like two snakes merging into one. He inhaled the heady scent of eucalyptus and the cold cell melted away as he was enveloped in the warmth of his lover.
+Robbledore was aware of the dementors closing in, surrounding the heady warmth of Sirius' cell.
+"Ssss," whispered Sirius. "Let them watch. It's the only thing they understand."
+Several dementors floated outside, faceless, but clearly intent on the action. Ronbledore was torn. His love, the now-thin man in front of him, and all the things he had thought about in the long months they had been separated, or his loathing to give the evil dementors even a moment of pleasure. What to do?

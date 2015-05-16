@@ -24,17 +24,19 @@ Quickly, he nodded and made the appropriate awe-stricken noises signalling he wa
 
 Thankfully, before Harry twigged, a bushy-haired youth knocked on the door.
 
-The Muggle girl called Hermiione Grainger was talking to Harry and providing a distraction from Ron's the complicated facial expressions that came with being a time travelling wizard.
+The Muggle girl called Hermione Grainger was talking to Harry and providing a distraction from Ron's the complicated facial expressions that came with being a time travelling wizard. And allowed him to take a quick swig of the Polyjuice Potion that kept him in the form of a handsome red-headed schoolboy.
 
 ## Meanwhile ...
 
 Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge.
 
-He'd been plotting for some time, but the likelihood of Peter Pettigrew visiting him in prison, transforming back into a wizard infront of the Dementors and exposing himself for the fraud he was, was becoming increasingly unlikely. And that didn't even allow for the Dementors not actually caring. No. He had to act now.
+
+He'd been plotting for some time, but the likelihood of Peter Pettigrew visiting him in prison, transforming back into a wizard infront of the Dementors and exposing himself for the fraud he was, Sirius reflected, was becoming increasingly unlikely. And that didn't even allow for the Dementors not actually caring. No. He had to act now.
 
 ## H3 Back on the train...
 
 Hermione Grainger was very nervous. Perhaps if the other witches and wizards found out that her parents were dentists she'd be ridiculed. Of course, what they didn't know, is that her parents weren't dentists at all. They were infact Muggle spies who were responsible for keeping the Prime Minister up to date with the goings on in the Magical world. Hermione had been turned into a witch by drinking a special potion with her porridge one morning when she was very young. She was, in fact, their opportunity to infiltrate the magical world.
+Little did the Graingers know that the greatest wizard in the land, Dumbledore was on to them. In fact, he had been since the start. But as Dumbledore knew, all great plans take at least 18 years to come to fruition.
 
 ## H3 Cutthroat Clive has feelings too
 

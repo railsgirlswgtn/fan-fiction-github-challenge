@@ -24,7 +24,7 @@ Quickly, he nodded and made the appropriate awe-stricken noises signalling he wa
 
 Thankfully, before Harry twigged, a bushy-haired youth knocked on the door.
 
-The Muggle girl called Hermiione Grainger was talking to Harry and providing a distraction from Ron's the complicated facial expressions that came with being a time travelling wizard.
+The Muggle girl called Hermione Grainger was talking to Harry and providing a distraction from Ron's the complicated facial expressions that came with being a time travelling wizard. And allowed him to take a quick swig of the Polyjuice Potion that kept him in the form of a handsome red-headed schoolboy.
 
 ## Meanwhile ...
 
@@ -39,3 +39,4 @@ Hermione Grainger was very nervous. Perhaps if the other witches and wizards fou
 ## H3 Cutthroat Clive has feelings too
 
 Transformed into Padfoot, Sirius found he could move around without the Dementors seeing him. In the next cell Cutthroat Clive's mother had come to visit with a backpack full of birthday cake to celebrate Clive's 40th birthday. Clive was a nice enough guy, he'd just fallen in with a bad crowd in the 'pirating on the high seas' scene. His mother always brought him fruitcake for his birthday every year, and he never managed to tell her that no one likes fruitcake, because he didn't want ot hurt her feelings. While Clive's mother was cutting up the cake, Padfood padded into the open backpack on the floor and lay down in the bag. Clive's mother would be able to carry him straight out of the prison and back into the free world.
+

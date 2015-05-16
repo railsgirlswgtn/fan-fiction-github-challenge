@@ -14,8 +14,15 @@ Ron is actually a time traveling Dumbledore. Dumbledore is a time traveling Ron.
 
 #### Scene 1 - on the train to Hogwarts
 
-Ron looked at the boy sitting across the carriage from him, 'are you really Harry Potter?' he blurted.
+Ron looked at the boy sitting across the carriage from him. 'Are you really Harry Potter?' he blurted.
 
+Oh course Ron knew who the boy was. As the boy pulled back his fringe to show his lightning scar, his mind drifted back to just under ten years ago when he had seen it for the first time -- the day he had deposited the baby Harry on his aunt and uncle's doorstep. Harry could never know. Going to Hogwarts was going to be more complicated than Ronbledore had thought!
+
+## H2 What have I got myself into thought Ronbledore
+
+Quickly, he nodded and made the appropriate awe-stricken noises signalling he was new to the scar debacle.
+
+Thankfully, before Harry twigged, a bushy-haired youth knocked on the door.
 
 Oh course Ron knew who the boy was. As the boy pulled back his fringe to show his lightening scar, his mind drifted back to just under ten years ago when he had seen it for the first time when he had deposited the baby Harry on his aunt and uncle's doorstep. Harry could never know. Going to Hogwarts was going to be more complicated than Ronbledore had thought!
 
@@ -23,4 +30,5 @@ Thankfully the Muggle girl caleld Hermiione Grainger was talking to Harry and pr
 
 ## Meanwhile ...
 
-Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge. 
+Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge.
+

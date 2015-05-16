@@ -18,3 +18,5 @@ Ron looked at the boy sitting across the carriage from him, 'are you really Harr
 
 
 Oh course Ron knew who the boy was. As the boy pulled back his fringe to show his lightening scar, his mind drifted back to just under ten years ago when he had seen it for the first time when he had deposited the baby Harry on his aunt and uncle's doorstep. Harry could never know. Going to Hogwarts was going to be more complicated than Ronbledore had thought!
+
+## H2 What have I got myself into thought Ronbledore

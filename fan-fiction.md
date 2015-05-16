@@ -56,3 +56,5 @@ Sirius blushed, his face matching the red colour of Ronbledore's hair. That vivi
 Ronbledore curled his arms around Sirius' waist. "You've lost quite a bit of weight in here" he remarked, noting that Sirius' face was looking a bit gaunt. His eyes travelled over his messy mop of dark hair, bright black eyes, and slightly chapped lips. He lingered on the lips. Raising his head up slightly, he gently pressed his lips against Sirius'.
 
 Sirius sighed at the familiarity of Ronbledores lips, and parted his mouth to allow their tongues to entwine like two snakes merging into one. He inhaled the heady scent of eucalyptus and the cold cell melted away as he was enveloped in the warmth of his lover.
+
+The cell melted away liternally. Sirius was finally free from the prison that had captured him for so many years. He no needed the services of Ronbledore.

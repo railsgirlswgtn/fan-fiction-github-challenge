@@ -17,4 +17,6 @@ Ron is actually a time traveling Dumbledore. Dumbledore is a time traveling Ron.
 Ron looked at the boy sitting across the carriage from him, 'are you really Harry Potter?' he blurted.
 
 
-Oh course Ron knew who the boy was. As the boy pulled back his fringe to show his lightening scar, his mind drifted back to just under ten years ago when he had seen it for the first time when he had deposited the baby Harry on his aunt and uncle's doorstep. Harry could never know. Going to Hogwarts was going to be more complicated than Ronbledore had thought!
+Of course Ron knew who the boy was. As the boy pulled back his fringe to show his lightning scar, his mind drifted back to just under ten years ago when he had seen it for the first time when he had deposited the baby Harry on his aunt and uncle's doorstep. Harry could never know. Going to Hogwarts was going to be more complicated than Ronbledore had thought!
+
+Immediately Ronbledore wondered how Warner Bros studios might represent this on their studio tour. Could they charge extra money? What would his cut be?  He had better get onto his agent, and fast; "Accio Galaxy S6 Edge!".

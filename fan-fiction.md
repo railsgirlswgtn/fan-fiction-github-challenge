@@ -29,11 +29,13 @@ The Muggle girl called Hermiione Grainger was talking to Harry and providing a d
 ## Meanwhile ...
 
 Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge.
-He'd been plotting for some time, but the likelihood of Peter Pettigrew visiting him in prison, transforming back into a wizard infront of the Dementors and exposing himself for the fraud he was, was becoming increasingly unlikely.  And that didn't even allow for the Dementors not actually caring.  No.  He had to act now.
 
-## Back on the train...
-Hermione Grainger was very nervous.  Perhaps if the other witches and wizards found out that her parents were dentists she'd be ridiculed.  Of course, what they didn't know, is that her parents weren't dentists at all.  They were infact Muggle spies who were responsible for keeping the Prime Minister up to date with the goings on in the Magical world.  Hermione had been turned into a witch by drinking a special potion with her porridge one morning when she was very young.  She was, in fact, their opportunity to infiltrate the magical world.
+He'd been plotting for some time, but the likelihood of Peter Pettigrew visiting him in prison, transforming back into a wizard infront of the Dementors and exposing himself for the fraud he was, was becoming increasingly unlikely. And that didn't even allow for the Dementors not actually caring. No. He had to act now.
+
+## H3 Back on the train...
+
+Hermione Grainger was very nervous. Perhaps if the other witches and wizards found out that her parents were dentists she'd be ridiculed. Of course, what they didn't know, is that her parents weren't dentists at all. They were infact Muggle spies who were responsible for keeping the Prime Minister up to date with the goings on in the Magical world. Hermione had been turned into a witch by drinking a special potion with her porridge one morning when she was very young. She was, in fact, their opportunity to infiltrate the magical world.
 
 ## H3 Cutthroat Clive has feelings too
 
-Transformed into Padfoot, Sirius found he could move around without the Dementors seeing him. In the next cell Cutthroat Clive's mother had come to visit with a backpack full of birthday cake to celebrate Clive's 40th birthday. Clive was a nice enough guy, he'd just fallen in with a bad crowd in the 'pirating on the high seas' scene. His mother always brought him fruitcake for his birthday every year, and he never managed to tell her that no one likes fruitcake, because he didn't want ot hurt her feelings. While Clive's mother was cutting up the cake, Padfood padded into the open backpack on the floor and lay down in the bag. CLive's mother would be able to carry him straight out of the prison and back into the free world.
+Transformed into Padfoot, Sirius found he could move around without the Dementors seeing him. In the next cell Cutthroat Clive's mother had come to visit with a backpack full of birthday cake to celebrate Clive's 40th birthday. Clive was a nice enough guy, he'd just fallen in with a bad crowd in the 'pirating on the high seas' scene. His mother always brought him fruitcake for his birthday every year, and he never managed to tell her that no one likes fruitcake, because he didn't want ot hurt her feelings. While Clive's mother was cutting up the cake, Padfood padded into the open backpack on the floor and lay down in the bag. Clive's mother would be able to carry him straight out of the prison and back into the free world.

@@ -32,7 +32,7 @@ Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot.
 
 After giving it some thought however, Black realised that his station in life wasn't all bad. After all, not every prisoner has fur and a tail, and if one must spend undeserved time in Azkaban, doing so as a dog must be the most convenient way.
 
-He had a weird feeling that he would escape in another two and a bit years anyway, so the remaining time must be spend perfecting his ability to confuse everyone who only catches a glimpse of him out of the corner of their eye by transforming into his other form.
+He had a weird feeling that he would escape in another two and a bit years anyway, so the remaining time must be spent perfecting his ability to confuse everyone who only catches a glimpse of him out of the corner of their eye by transforming into his other form.
 
 He also had frequent dreams about the dreaded Whomping Willow. Little did he know, the future held a sweet sweet piece of dream-related revenge - biting sneaky Ronbledore and preventing him from time-traveling. Again. Well, at least for a short while.
 
@@ -80,4 +80,6 @@ Robbledore was aware of the dementors closing in, surrounding the heady warmth o
 "Ssss," whispered Sirius. "Let them watch. It's the only thing they understand."
 Several dementors floated outside, faceless, but clearly intent on the action. Ronbledore was torn. His love, the now-thin man in front of him, and all the things he had thought about in the long months they had been separated, or his loathing to give the evil dementors even a moment of pleasure. What to do?
 
-The cell melted away liternally. Sirius was finally free from the prison that had captured him for so many years. He no needed the services of Ronbledore.
+The cell melted away literally. Sirius was finally free from the prison that had captured him for so many years. He no longer needed the services of Ronbledore.
+
+Ronbledore felt used.

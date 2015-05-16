@@ -33,7 +33,7 @@ Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot.
 
 He'd been plotting for some time, but the likelihood of Peter Pettigrew visiting him in prison, transforming back into a wizard infront of the Dementors and exposing himself for the fraud he was, Sirius reflected, was becoming increasingly unlikely. And that didn't even allow for the Dementors not actually caring. No. He had to act now.
 
-## H3 Back on the train...
+## Back on the train...
 
 Hermione Grainger was very nervous. Perhaps if the other witches and wizards found out that her parents were dentists she'd be ridiculed. Of course, what they didn't know, is that her parents weren't dentists at all. They were infact Muggle spies who were responsible for keeping the Prime Minister up to date with the goings on in the Magical world. Hermione had been turned into a witch by drinking a special potion with her porridge one morning when she was very young. She was, in fact, their opportunity to infiltrate the magical world.
 Little did the Graingers know that the greatest wizard in the land, Dumbledore was on to them. In fact, he had been since the start. But as Dumbledore knew, all great plans take at least 18 years to come to fruition.
@@ -50,7 +50,7 @@ Clive's mother, Suzanne, was a lovely old lady working at AzkaLab, a small potio
 
 After Dumbleron's first time travels, Arthur started noticing changes in his youngest son's personality and decided it was time for some parental actions. He set his mind to get his son back to normal and went off to seek a furry pet to cheer him up. Of course, everybody knows the Weasleys aren't a wealthy family... which led Arthur to the nearest pet shelter on his way to AzkaLab. There, a fat grey rat with a missing finger caught his attention. 
 
-## H3 This is getting sexy...
+## This is getting sexy...
 
 Ronbledore checked that no one was around. Quickly, he rolled his anti Dementor deodorant on under his arms. It was also scented with eucalyptus, his lover Sirius' favourite scent. Looking furtively round once more just to make sure no one was around, he apparated into Sirius' cell.
 

@@ -22,3 +22,7 @@ Oh course Ron knew who the boy was. As the boy pulled back his fringe to show hi
 Quickly, he nodded and made the appropriate awe-stricken noises signalling he was new to the scar debacle.
 
 Thankfully, before Harry twigged, a bushy-haired youth knocked on the door.
+
+Ronbledore looked up, and gasped. She was hideous! But then his type was smooth, hairless 60-year old men, though, so he wasn't sure he was allowed to have an opinion here.
+
+#### Scene 2 - Hermione tells Ronbledore he has something on his nose

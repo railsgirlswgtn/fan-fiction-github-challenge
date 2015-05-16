@@ -52,7 +52,7 @@ Little did the Graingers know that the greatest wizard in the land, Dumbledore w
 
 ## Cutthroat Clive has feelings too
 
-Transformed into Padfoot, Sirius found he could move around without the Dementors seeing him. In the next cell Cutthroat Clive's mother had come to visit with a backpack full of birthday cake to celebrate Clive's 40th birthday. Clive was a nice enough guy, he'd just fallen in with a bad crowd in the 'pirating on the high seas' scene. His mother always brought him fruitcake for his birthday every year, and he never managed to tell her that no one likes fruitcake, because he didn't want ot hurt her feelings. While Clive's mother was cutting up the cake, Padfood padded into the open backpack on the floor and lay down in the bag. Clive's mother would be able to carry him straight out of the prison and back into the free world.
+Transformed into Padfoot, Sirius found he could move around without the Dementors seeing him. In the next cell Cutthroat Clive's unicorn had come to visit with a backpack full of birthday cake to celebrate Clive's 40th birthday. Clive was a nice enough guy, he'd just fallen in with a bad crowd in the 'pirating on the high seas' scene. His unicorn always brought him fruitcake for his birthday every year, and he never managed to tell her that no one likes fruitcake, because he didn't want ot hurt her feelings. While Clive's unicorn was cutting up the cake, Padfood padded into the open backpack on the floor and lay down in the bag. Clive's unicorn would be able to carry him straight out of the prison and back into the free world.
 
 Little did he know that this year the cake had a surprise in it...
 

@@ -72,6 +72,8 @@ Sirius was pacing anxiously back and forth. All of a sudden Ronbledore appeared 
 
 Sirius blushed, his face matching the red colour of Ronbledore's hair. That vivid red hair that he'd been dreaming about.
 
+![siriussexygif](http://img1.wikia.nocookie.net/__cb20130905175349/degrassi/images/f/f6/Sirius-Black-harry-potter-30733374-500-207.gif)
+
 Ronbledore curled his arms around Sirius' waist. "You've lost quite a bit of weight in here" he remarked, noting that Sirius' face was looking a bit gaunt. His eyes travelled over his messy mop of dark hair, bright black eyes, and slightly chapped lips. He lingered on the lips. Raising his head up slightly, he gently pressed his lips against Sirius'.
 
 Sirius sighed at the familiarity of Ronbledores lips, and parted his mouth to allow their tongues to entwine like two snakes merging into one. He inhaled the heady scent of eucalyptus and the cold cell melted away as he was enveloped in the warmth of his lover.

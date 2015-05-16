@@ -16,7 +16,7 @@ Ron is actually a time traveling Dumbledore. Dumbledore is a time traveling Ron.
 
 Ron looked at the boy sitting across the carriage from him. 'Are you really Harry Potter?' he blurted.
 
-Oh course Ron knew who the boy was. As the boy pulled back his fringe to show his cat-shaped scar, his mind drifted back to just under ten years ago when he had seen it for the first time when he had deposited the baby Harry on his aunt and uncle's doorstep. Harry could never know. Going to Hogwarts was going to be more complicated than Ronbledore had thought!
+Of course Ron knew who the boy was. As the boy pulled back his fringe to show his cat-shaped scar, his mind drifted back to just under ten years ago when he had seen it for the first time when he had deposited the baby Harry on his aunt and uncle's doorstep. Harry could never know. Going to Hogwarts was going to be more complicated than Ronbledore had thought!
 
 ## H2 What have I got myself into thought Ronbledore
 
@@ -42,13 +42,13 @@ Little did the Graingers know that the greatest wizard in the land, Dumbledore w
 
 Transformed into Padfoot, Sirius found he could move around without the Dementors seeing him. In the next cell Cutthroat Clive's mother had come to visit with a backpack full of birthday cake to celebrate Clive's 40th birthday. Clive was a nice enough guy, he'd just fallen in with a bad crowd in the 'pirating on the high seas' scene. His mother always brought him fruitcake for his birthday every year, and he never managed to tell her that no one likes fruitcake, because he didn't want to hurt her feelings. While Clive's mother was cutting up the cake, Padfood padded into the open backpack on the floor and lay down in the bag. Clive's mother would be able to carry him straight out of the prison and back into the free world.
 
-Little did he know that this year the cake had a surprise in it... 
+Little did he know that this year the cake had a surprise in it...
 
 ## The rat in the lab
 
 Clive's mother, Suzanne, was a lovely old lady working at AzkaLab, a small potions laboratory which developed new tools to help the Aurors catch criminals and send them to Azkaban. Being supported by the ministry of magic, AzkaLab received regular visits from Ministry Workers. This year, the visitor was Arthur Weasley.
 
-After Dumbleron's first time travels, Arthur started noticing changes in his youngest son's personality and decided it was time for some parental actions. He set his mind to get his son back to normal and went off to seek a furry pet to cheer him up. Of course, everybody knows the Weasleys aren't a wealthy family... which led Arthur to the nearest pet shelter on his way to AzkaLab. There, a fat grey rat with a missing finger caught his attention. 
+After Dumbleron's first time travels, Arthur started noticing changes in his youngest son's personality and decided it was time for some parental actions. He set his mind to get his son back to normal and went off to seek a furry pet to cheer him up. Of course, everybody knows the Weasleys aren't a wealthy family... which led Arthur to the nearest pet shelter on his way to AzkaLab. There, a fat grey rat with a missing finger caught his attention.
 
 ## This is getting sexy...
 

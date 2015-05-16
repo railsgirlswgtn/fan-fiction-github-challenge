@@ -17,8 +17,12 @@ Ron is actually a time traveling Dumbledore. Dumbledore is a time traveling Ron.
 Ron looked at the boy sitting across the carriage from him, 'are you really Harry Potter?' he blurted.
 
 
-Oh course Ron knew who the boy was. As the boy pulled back his fringe to show his lightening scar, his mind drifted back to just under ten years ago when he had seen it for the first time when he had deposited the baby Harry on his aunt and uncle's doorstep. Harry could never know. Going to Hogwarts was going to be more complicated than Ronbledore had thought!
+Oh course Ron knew who the boy was. As the boy pulled back his fringe to show his cat-shaped scar, his mind drifted back to just under ten years ago when he had seen it for the first time when he had deposited the baby Harry on his aunt and uncle's doorstep. Harry could never know. Going to Hogwarts was going to be more complicated than Ronbledore had thought!
 
 Quickly, he nodded and made the appropriate awe-stricken noises signalling he was new to the scar debacle.
 
 Thankfully, before Harry twigged, a bushy-haired youth knocked on the door.
+
+"Are either of you the owner of this ghastly rat", the bespectacled teen spat, throwing the rodent into the cabin. 
+
+Sheepishly, Ron scooped the rat up. "Scabbers! I thought I'd lost you!" 

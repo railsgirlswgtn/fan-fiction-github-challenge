@@ -79,3 +79,5 @@ Sirius sighed at the familiarity of Ronbledores lips, and parted his mouth to al
 Robbledore was aware of the dementors closing in, surrounding the heady warmth of Sirius' cell.
 "Ssss," whispered Sirius. "Let them watch. It's the only thing they understand."
 Several dementors floated outside, faceless, but clearly intent on the action. Ronbledore was torn. His love, the now-thin man in front of him, and all the things he had thought about in the long months they had been separated, or his loathing to give the evil dementors even a moment of pleasure. What to do?
+
+The cell melted away liternally. Sirius was finally free from the prison that had captured him for so many years. He no needed the services of Ronbledore.

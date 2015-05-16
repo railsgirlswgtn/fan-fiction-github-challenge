@@ -42,3 +42,17 @@ Little did the Graingers know that the greatest wizard in the land, Dumbledore w
 
 Transformed into Padfoot, Sirius found he could move around without the Dementors seeing him. In the next cell Cutthroat Clive's mother had come to visit with a backpack full of birthday cake to celebrate Clive's 40th birthday. Clive was a nice enough guy, he'd just fallen in with a bad crowd in the 'pirating on the high seas' scene. His mother always brought him fruitcake for his birthday every year, and he never managed to tell her that no one likes fruitcake, because he didn't want ot hurt her feelings. While Clive's mother was cutting up the cake, Padfood padded into the open backpack on the floor and lay down in the bag. Clive's mother would be able to carry him straight out of the prison and back into the free world.
 
+
+## H3 This is getting sexy...
+
+Ronbledore checked that no one was around. Quickly, he rolled his anti Dementor deodorant on under his arms. It was also scented with eucalyptus, his lover Sirius' favourite scent. Looking furtively round once more just to make sure no one was around, he apparated into Sirius' cell.
+
+Sirius was pacing anxiously back and forth. All of a sudden Ronbledore appeared in front of him, and Sirius knocked both of them down to the floor.
+
+"Well, hello to you too", Ronbledore said grinning, as he was pinned down on the floor by his lover.
+
+Sirius blushed, his face matching the red colour of Ronbledore's hair. That vivid red hair that he'd been dreaming about.
+
+Ronbledore curled his arms around Sirius' waist. "You've lost quite a bit of weight in here" he remarked, noting that Sirius' face was looking a bit gaunt. His eyes travelled over his messy mop of dark hair, bright black eyes, and slightly chapped lips. He lingered on the lips. Raising his head up slightly, he gently pressed his lips against Sirius'.
+
+Sirius sighed at the familiarity of Ronbledores lips, and parted his mouth to allow their tongues to entwine like two snakes merging into one. He inhaled the heady scent of eucalyptus and the cold cell melted away as he was enveloped in the warmth of his lover.

@@ -49,3 +49,17 @@ Little did he know that this year the cake had a surprise in it...
 Clive's mother, Suzanne, was a lovely old lady working at AzkaLab, a small potions laboratory which developed new tools to help the Aurors catch criminals and send them to Azkaban. Being supported by the ministry of magic, AzkaLab received regular visits from Ministry Workers. This year, the visitor was Arthur Weasley.
 
 After Dumbleron's first time travels, Arthur started noticing changes in his youngest son's personality and decided it was time for some parental actions. He set his mind to get his son back to normal and went off to seek a furry pet to cheer him up. Of course, everybody knows the Weasleys aren't a wealthy family... which led Arthur to the nearest pet shelter on his way to AzkaLab. There, a fat grey rat with a missing finger caught his attention. 
+
+## H3 This is getting sexy...
+
+Ronbledore checked that no one was around. Quickly, he rolled his anti Dementor deodorant on under his arms. It was also scented with eucalyptus, his lover Sirius' favourite scent. Looking furtively round once more just to make sure no one was around, he apparated into Sirius' cell.
+
+Sirius was pacing anxiously back and forth. All of a sudden Ronbledore appeared in front of him, and Sirius knocked both of them down to the floor.
+
+"Well, hello to you too", Ronbledore said grinning, as he was pinned down on the floor by his lover.
+
+Sirius blushed, his face matching the red colour of Ronbledore's hair. That vivid red hair that he'd been dreaming about.
+
+Ronbledore curled his arms around Sirius' waist. "You've lost quite a bit of weight in here" he remarked, noting that Sirius' face was looking a bit gaunt. His eyes travelled over his messy mop of dark hair, bright black eyes, and slightly chapped lips. He lingered on the lips. Raising his head up slightly, he gently pressed his lips against Sirius'.
+
+Sirius sighed at the familiarity of Ronbledores lips, and parted his mouth to allow their tongues to entwine like two snakes merging into one. He inhaled the heady scent of eucalyptus and the cold cell melted away as he was enveloped in the warmth of his lover.

@@ -4,6 +4,15 @@
 ### The Challenge
 Make a pull request to add to this collaborative tale about Harry and his friends.
 
+You will:
+
+* Edit the files in this project
+* Add those changes to your staging area
+* Commit them
+* And push them to github
+* You'll then (if you're really brave) learn how to manage merge conflicts!
+
+####  **Here's how ...**
 
 1. ###### Open your terminal and navigate to where you're going to store these files on your computer.
   *(just shout out if you don't know who or what your terminal is!)*

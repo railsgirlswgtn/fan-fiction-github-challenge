@@ -24,13 +24,13 @@ Quickly, he nodded and made the appropriate awe-stricken noises signalling he wa
 
 Thankfully, before Harry twigged, a bushy-haired youth knocked on the door.
 
-Thankfully the Muggle girl caleld Hermiione Grainger was talking to Harry and providing a distraction from Ron's the complicated facial expressions that came with being a time travelling wizard. And allowed him to take a quick swig of the Polyjuice Potion that kept him in the form of a handsome red-headed schoolboy.
+Thankfully the Muggle girl called Hermione Granger was talking to Harry and providing a distraction from Ron's complicated facial expressions that came with being a time travelling wizard. This distraction allowed Ron to take a quick swig of the Polyjuice Potion that kept him in the form of a handsome, red-headed schoolboy.
 
-## Meanwhile ...
+## Meanwhile...
 
 Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge.
 
-After giving it some thought however, Black realised that his station in life wasn't all bad. After all, not every prisoner has fur and a tail, and if one must spend undeserved time in Azkaban, doing so as a dog must be the most convenient way.
+After giving it some thought; however, Black realised that his station in life wasn't all that bad. After all, not every prisoner has fur and a tail, and if one must spend undeserved time in Azkaban, doing so as a dog must be the most convenient way.
 
 He had a weird feeling that he would escape in another two and a bit years anyway, so the remaining time must be spend perfecting his ability to confuse everyone who only catches a glimpse of him out of the corner of their eye by transforming into his other form.
 

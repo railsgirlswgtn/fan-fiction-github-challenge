@@ -2,4 +2,7 @@
 source "https://rubygems.org"
 
 gem "rspec"
-# gem "rails"
+
+group :test do
+  gem "rake"
+end

@@ -30,5 +30,4 @@ Thankfully the Muggle girl caleld Hermiione Grainger was talking to Harry and pr
 
 ## Meanwhile ...
 
-Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his revenge.
-
+Sirius Black was sitting in Azkaban. Alone. In the dark. Transformed as Padfoot. He would get his cupcake.
